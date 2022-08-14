@@ -1,0 +1,15 @@
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/HM2_1.csproj.AssemblyReference.cache
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/HM2_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/HM2_1.AssemblyInfoInputs.cache
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/HM2_1.AssemblyInfo.cs
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/HM2_1.csproj.CoreCompileInputs.cache
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/bin/Debug/net6.0/HM2_1
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/bin/Debug/net6.0/HM2_1.deps.json
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/bin/Debug/net6.0/HM2_1.runtimeconfig.json
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/bin/Debug/net6.0/HM2_1.dll
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/bin/Debug/net6.0/HM2_1.pdb
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/HM2_1.dll
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/refint/HM2_1.dll
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/HM2_1.pdb
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/HM2_1.genruntimeconfig.cache
+/Users/chuprinov.d/Desktop/HomeWork2/HM2_1/obj/Debug/net6.0/ref/HM2_1.dll
